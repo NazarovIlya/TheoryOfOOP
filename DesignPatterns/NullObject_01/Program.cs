@@ -8,11 +8,18 @@ ListProduct listProducts = new ListProduct();
 
 foreach (string productName in listProducts.products)
 {
-	Product product = Shop.GetProductOf(productName);
-	if(product != null)
+	try
 	{
+		Product product = Shop.GetProductOf(productName);
 		Console.WriteLine(product.KCalOfProduct());
 		product.eat();
+	}
+	catch(Exception e) 
+	{
+		Console.ForegroundColor = ConsoleColor.Red;
+		Console.WriteLine($"Возникло исключение: {e.Message}");
+		Console.WriteLine($"Стек ошибок: {e.StackTrace}");
+		Console.ForegroundColor = ConsoleColor.White;
 	}
 
 }

@@ -21,7 +21,7 @@ namespace NullObject_01
 				case "cakes":
 					return new Cake();
 				default:
-					return null;
+					throw new Exception("Нет совпадения по наименованию товара.");
 			}
 		}
 	}
