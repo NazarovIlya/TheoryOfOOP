@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\MyGBProjects\\SelfEducation\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj": {}
+    "D:\\Programming\\MyGBProjects\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\MyGBProjects\\SelfEducation\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj": {
+    "D:\\Programming\\MyGBProjects\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\MyGBProjects\\SelfEducation\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj",
+        "projectUniqueName": "D:\\Programming\\MyGBProjects\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj",
         "projectName": "NullObject_01",
-        "projectPath": "D:\\Programming\\MyGBProjects\\SelfEducation\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj",
+        "projectPath": "D:\\Programming\\MyGBProjects\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj",
         "packagesPath": "C:\\Users\\eliak\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\MyGBProjects\\SelfEducation\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\obj\\",
+        "outputPath": "D:\\Programming\\MyGBProjects\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

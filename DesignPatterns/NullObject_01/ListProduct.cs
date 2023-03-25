@@ -16,10 +16,10 @@ namespace NullObject_01
 			products.Add("Milk");
 			products.Add("Cream");
 			products.Add("Cakes");
-			//products.Add("Soda");
+			products.Add("soda");
 			products.Add("Coffee");
 			products.Add("Latte");
-			//products.Add("Cocoa");
+			products.Add("Cocoa");
 		}
 	}
 }

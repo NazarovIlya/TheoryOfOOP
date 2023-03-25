@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MH1FQRKl2upJ8Ue8lX1uV++v+0ZwUYHlTOq9EjGuLXgwsLaInKLCDtyoUAoDqLl6gIenaRE65V4JI458H0NwcQ==",
+  "dgSpecHash": "1dJqZ+LUEOdq1h52qfJo6uMcPY6mfkqJVX0qqcGU5JUuYJIes8WlJHcgmHIByPT1tx8vIzoVfmD5BopCEOmztg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\MyGBProjects\\SelfEducation\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj",
+  "projectFilePath": "D:\\Programming\\MyGBProjects\\TheoryOfOOP\\DesignPatterns\\NullObject_01\\NullObject_01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eliak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\eliak\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
