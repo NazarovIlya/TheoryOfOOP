@@ -18,3 +18,9 @@
 ### Null object
 
 - [Проблемный код, не достаточно продуманная архитектура: NullReferenceExeptoin](https://github.com/NazarovIlya/TheoryOfOOP/commit/e485778915275bd8c1f51bea213943350ab46f66)
+
+- [](https://github.com/NazarovIlya/TheoryOfOOP/commit/)
+
+- []()
+
+

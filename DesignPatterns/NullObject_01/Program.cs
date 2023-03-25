@@ -9,8 +9,12 @@ ListProduct listProducts = new ListProduct();
 foreach (string productName in listProducts.products)
 {
 	Product product = Shop.GetProductOf(productName);
-	Console.WriteLine(product.KCalOfProduct());
-	product.eat();
+	if(product != null)
+	{
+		Console.WriteLine(product.KCalOfProduct());
+		product.eat();
+	}
+
 }
 
 Console.ReadKey();
