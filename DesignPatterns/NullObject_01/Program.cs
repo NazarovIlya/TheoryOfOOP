@@ -14,7 +14,7 @@ foreach (string productName in listProducts.products)
 		Console.WriteLine(product.KCalOfProduct());
 		product.eat();
 	}
-	catch(Exception e) 
+	catch(ProductNotFoundExeption e) 
 	{
 		Console.ForegroundColor = ConsoleColor.Red;
 		Console.WriteLine($"Возникло исключение: {e.Message}");
