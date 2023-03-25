@@ -16,4 +16,4 @@
 ## **Паттерны проектирования:**
 
 - Null oblect
-- [NullReferenceExeption](e485778915275bd8c1f51bea213943350ab46f66)
+- [NullReferenceExeption](https://github.com/NazarovIlya/TheoryOfOOP/commit/e485778915275bd8c1f51bea213943350ab46f66)
