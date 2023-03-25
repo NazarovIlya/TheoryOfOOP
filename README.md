@@ -20,6 +20,7 @@
 - [Возможное решение проблемы](https://github.com/NazarovIlya/TheoryOfOOP/commit/ff8952c5e8baa920b9517ec071a94198c9d7a0e5)
 - [Обработка исключения типа Exeption блоком try-catch](https://github.com/NazarovIlya/TheoryOfOOP/commit/897aa54cb763c9544c0fcdac1aa283e6a7646318)
 - [Обработка исключений собственного типа блоком try-catch](https://github.com/NazarovIlya/TheoryOfOOP/commit/)
+
 - []()
 
 
