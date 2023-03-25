@@ -21,6 +21,6 @@
 - [Обработка исключения типа Exeption блоком try-catch](https://github.com/NazarovIlya/TheoryOfOOP/tree/897aa54cb763c9544c0fcdac1aa283e6a7646318)
 - [Обработка исключений собственного типа блоком try-catch](https://github.com/NazarovIlya/TheoryOfOOP/tree/492c0921e59ac2f837936c3d3f2e3e867335088c)
 
-- [Недопущениe исключения с помощью создания NullObject](https://github.com/NazarovIlya/TheoryOfOOP/tree/d8aa296eec1bb2e8231db71bfa763be660087044)
+- [Недопущениe исключения с помощью создания NullObject](https://github.com/NazarovIlya/TheoryOfOOP/tree/4a5a8cde96abb5342c979556d7a1b8782bddeab7)
 
 
