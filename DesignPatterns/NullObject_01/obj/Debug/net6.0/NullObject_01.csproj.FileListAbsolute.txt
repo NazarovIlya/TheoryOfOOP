@@ -1,0 +1,30 @@
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.csproj.AssemblyReference.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.AssemblyInfoInputs.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.AssemblyInfo.cs
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.csproj.CoreCompileInputs.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\bin\Debug\net6.0\NullObject_01.exe
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\bin\Debug\net6.0\NullObject_01.deps.json
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\bin\Debug\net6.0\NullObject_01.runtimeconfig.json
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\bin\Debug\net6.0\NullObject_01.dll
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\bin\Debug\net6.0\NullObject_01.pdb
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.dll
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\refint\NullObject_01.dll
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.pdb
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\NullObject_01.genruntimeconfig.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\Design patterns\NullObject_01\obj\Debug\net6.0\ref\NullObject_01.dll
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\bin\Debug\net6.0\NullObject_01.exe
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\bin\Debug\net6.0\NullObject_01.deps.json
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\bin\Debug\net6.0\NullObject_01.runtimeconfig.json
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\bin\Debug\net6.0\NullObject_01.dll
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\bin\Debug\net6.0\NullObject_01.pdb
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.csproj.AssemblyReference.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.AssemblyInfoInputs.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.AssemblyInfo.cs
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.csproj.CoreCompileInputs.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.dll
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\refint\NullObject_01.dll
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.pdb
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\NullObject_01.genruntimeconfig.cache
+D:\Programming\MyGBProjects\SelfEducation\TheoryOfOOP\DesignPatterns\NullObject_01\obj\Debug\net6.0\ref\NullObject_01.dll
