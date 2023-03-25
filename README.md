@@ -17,10 +17,10 @@
 
 ### Null object
 - [Проблемный код, не достаточно продуманная архитектура: NullReferenceExeptoin](https://github.com/NazarovIlya/TheoryOfOOP/commit/e485778915275bd8c1f51bea213943350ab46f66)
-- [Возможное решение проблемы](https://github.com/NazarovIlya/TheoryOfOOP/commit/ff8952c5e8baa920b9517ec071a94198c9d7a0e5)
+- [Возможное решение проблемы с помощью проверки на NULL](https://github.com/NazarovIlya/TheoryOfOOP/commit/ff8952c5e8baa920b9517ec071a94198c9d7a0e5)
 - [Обработка исключения типа Exeption блоком try-catch](https://github.com/NazarovIlya/TheoryOfOOP/commit/897aa54cb763c9544c0fcdac1aa283e6a7646318)
 - [Обработка исключений собственного типа блоком try-catch](https://github.com/NazarovIlya/TheoryOfOOP/commit/492c0921e59ac2f837936c3d3f2e3e867335088c)
 
-- []()
+- [Недопущениe исключения с помощью создания NullObject](https://github.com/NazarovIlya/TheoryOfOOP/commit/)
 
 
