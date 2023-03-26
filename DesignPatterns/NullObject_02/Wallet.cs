@@ -23,10 +23,7 @@ namespace NullObject_02
 		public void DepositMoney(int amount)
 		{
 				balance += amount;
-            if (logger != null)
-            {
 				logger.Warning($"Пополнение на {amount}");
-            }
-        }
+		}
 	}
 }
