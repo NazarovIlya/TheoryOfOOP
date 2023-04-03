@@ -37,6 +37,7 @@
 #### NullObject_02 на примере интернет-кошелька
 
 - [Кошелек работает с NULL-логгером](https://github.com/NazarovIlya/TheoryOfOOP/tree/a1eed52eac616afeb4f94ceb71f228a512053c45)
+- [Обобщенный динамический Null Object](https://github.com/NazarovIlya/TheoryOfOOP/tree/b0e59e8866b06baf27aa94197f915472f4952220/DesignPatterns/NullObject_02)
 
 
 
