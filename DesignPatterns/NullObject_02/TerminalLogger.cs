@@ -8,18 +8,12 @@ namespace NullObject_02
 {
 	internal class TerminalLogger : ILogger
 	{
-		public void Info(string message)
-		{
-			Console.WriteLine($"Info: {message}");
-		}
+		public void Info(string message) 
+		=> Console.WriteLine($"Info: {message}");
 
-		public void Warning(string message)
-		{
-			Console.WriteLine($"Warning: {message}");
-		}
+		public void Warning(string message) 
+		=> Console.WriteLine($"Warning: {message}");
 		public void Error(string message)
-		{
-			Console.WriteLine($"Error {message}");
-		}
+		=> Console.WriteLine($"Error {message}");
 	}
 }

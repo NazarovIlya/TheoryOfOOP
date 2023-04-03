@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VisioForge.MediaFramework.GStreamer.AudioEffects;
 
 namespace NullObject_02
 {
@@ -10,16 +11,8 @@ namespace NullObject_02
 	{
 		private ILogger logger;
 		private int balance;
-		
-		public Wallet(ILogger logger)
-		{
-			this.logger = logger;
-		}
-
-		public int GetBalance()
-		{
-			return balance;
-		}
+		public int Balance => balance;
+		public Wallet(ILogger logger) => this.logger = logger;
 		public void DepositMoney(int amount)
 		{
 				balance += amount;
