@@ -1,5 +1,7 @@
 ## **Паттерны проектирования:**
 
+### Mediator
+
 ### Null object
 #### NullObject_01 на примере магазина
 - [Проблемный код, не достаточно продуманная архитектура: NullReferenceExeption](https://github.com/NazarovIlya/TheoryOfOOP/tree/e485778915275bd8c1f51bea213943350ab46f66)
