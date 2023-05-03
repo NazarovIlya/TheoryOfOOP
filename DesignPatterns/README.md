@@ -1,8 +1,17 @@
-## **Паттерны проектирования:**
+## **Паттерны проектирования**
 
-### Mediator
+## ***Порождающие паттерны***
 
-### Null object
+## ***Структурнурные паттерны***
+
+## ***Поведенческие паттерны***
+
+### Паттерн Command/Команда
+
+### Паттерн Mediator/Посредник
+
+### Паттерн Observer/Наблюдатель
+### Паттерн Null object
 #### NullObject_01 на примере магазина
 - [Проблемный код, не достаточно продуманная архитектура: NullReferenceExeption](https://github.com/NazarovIlya/TheoryOfOOP/tree/e485778915275bd8c1f51bea213943350ab46f66)
 - [Возможное решение проблемы с помощью проверки на NULL](https://github.com/NazarovIlya/TheoryOfOOP/tree/ff8952c5e8baa920b9517ec071a94198c9d7a0e5)
@@ -16,3 +25,7 @@
 - [Обобщенный динамический Null Object](https://github.com/NazarovIlya/TheoryOfOOP/tree/e4c9a9c1f7fcce4990bc968c7c8f75d6d9a5002a/DesignPatterns/NullObject_02)
 
 ---
+
+
+
+- [Основы паттернов проектирования](https://metanit.com/sharp/patterns/1.1.php)
