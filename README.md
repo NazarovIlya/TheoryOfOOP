@@ -20,6 +20,16 @@
 ---
 ## SOLID принципы
 
+### SRP: single responsibility princle - принцип единственной ответственности
+
+### OCP: open-closed principle - принцип открытости/закрытости
+
+### LSP: Liskov subdtitution principle - принцип подстановки Барбары Лисковой
+
+### ISP: interface segregation principle - принцип разделения интерфейсов
+
+### DIP: depedency invervsion principle - принцип инверсии зависимостей
+
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [Принципы SOLID: Пишите программы SOLID]()
 
