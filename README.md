@@ -13,6 +13,7 @@
 
 ## ***Полиморфизм***
 
+- ["Основы принципов ООП.", канал "Несерьезный шарпист"](https://teletype.in/@notserious_seesharp/base-concepts-oop)
 - ["Странный полиморфизм.", Хабр.](https://habr.com/ru/post/706450/)
 
 ## *Абстракция*
@@ -31,7 +32,9 @@
 ### DIP: depedency invervsion principle - принцип инверсии зависимостей
 
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
-- [Принципы SOLID: Пишите программы SOLID]()
+- [Принципы SOLID: Пишите программы SOLID](https://questu.ru/articles/93140/)
+- [От STUPID кода к SOLID коду](https://habr.com/ru/articles/273843/)
+- ["Семь основных принципов хорошей разработки программного обеспечения"](https://dzone.com/articles/7-basic-principles-of-good-software-engineering)
 
 ---
 ## **Паттерны проектирования**
