@@ -2,6 +2,11 @@
 
 - [Объектно-ориентированное программирование](https://en.wikipedia.org/wiki/Object-oriented_programming)
 - [От STUPID кода к SOLID коду](https://habr.com/ru/post/273843/)
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- [От STUPID кода к SOLID коду](https://habr.com/ru/articles/273843/)
+- ["Основы принципов ООП.", канал "Несерьезный шарпист"](https://teletype.in/@notserious_seesharp/base-concepts-oop)
+- ["Семь основных принципов хорошей разработки программного обеспечения"](https://dzone.com/articles/7-basic-principles-of-good-software-engineering)
+
 
 ---
 
@@ -13,7 +18,6 @@
 
 ## ***Полиморфизм***
 
-- ["Основы принципов ООП.", канал "Несерьезный шарпист"](https://teletype.in/@notserious_seesharp/base-concepts-oop)
 - ["Странный полиморфизм.", Хабр.](https://habr.com/ru/post/706450/)
 
 ## *Абстракция*
@@ -30,11 +34,6 @@
 ### ISP: interface segregation principle - принцип разделения интерфейсов
 
 ### DIP: depedency invervsion principle - принцип инверсии зависимостей
-
-- [SOLID](https://en.wikipedia.org/wiki/SOLID)
-- [Принципы SOLID: Пишите программы SOLID](https://questu.ru/articles/93140/)
-- [От STUPID кода к SOLID коду](https://habr.com/ru/articles/273843/)
-- ["Семь основных принципов хорошей разработки программного обеспечения"](https://dzone.com/articles/7-basic-principles-of-good-software-engineering)
 
 ---
 ## **Паттерны проектирования**
@@ -68,5 +67,6 @@
 
 
 - [Основы паттернов проектирования](https://metanit.com/sharp/patterns/1.1.php)
+- ["Что такое анти-паттерны?"](https://habr.com/ru/articles/59005/)
 
 
